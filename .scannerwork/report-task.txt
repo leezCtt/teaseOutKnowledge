@@ -1,0 +1,6 @@
+projectKey=t123
+serverUrl=http://localhost:9000
+serverVersion=10.4.0.87286
+dashboardUrl=http://localhost:9000/dashboard?id=t123
+ceTaskId=22c86192-0e54-442c-979c-b0c62349d09b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=22c86192-0e54-442c-979c-b0c62349d09b
